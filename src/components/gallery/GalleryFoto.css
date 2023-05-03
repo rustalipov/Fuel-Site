@@ -1,0 +1,18 @@
+/* блок для слайдера */
+
+.gallery{
+    width: 80%;
+    margin: 50px 15%;
+    align-items: center;
+} 
+
+.gallery h3{
+    text-align: center;
+    font-size: 25px;
+}
+
+.gallery div img{
+    width: 300px;
+    height: 500px;
+}
+

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&display=swap');
+.info-photo{
+    margin-top: 100px;
+    height: 550px;
+    background: url(../../images/header-img.jpg) no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: #fff;
+}
+.info-photo h1{
+    padding-top: 250px;
+    font-size: 45px;
+    width: 500px;
+    margin: 0 auto;
+    font-family: 'Cormorant', serif;
+}
